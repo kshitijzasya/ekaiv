@@ -723,7 +723,7 @@ a:hover {
 .jewellery_section {
     width: 100%;
     float: left;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
 }
 
 .jewellery_img {
@@ -734,13 +734,17 @@ a:hover {
 }
 
 #jewellery_main_slider a.carousel-control-next {
+    /* right: 615px;
+    top: 75%; */
     right: 615px;
-    top: 75%;
+    top: 105%;
 }
 
 #jewellery_main_slider a.carousel-control-prev {
+    /* left: 615px;
+    top: 75%; */
     left: 615px;
-    top: 75%;
+    top: 105%;
 }
 
 #jewellery_main_slider .carousel-control-next,
